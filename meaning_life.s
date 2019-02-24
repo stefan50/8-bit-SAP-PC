@@ -1,3 +1,3 @@
-lda 19
-add 23
+lda 14
+add 15
 out
